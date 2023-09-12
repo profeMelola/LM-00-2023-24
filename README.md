@@ -3,7 +3,7 @@
 ![image](https://github.com/profeMelola/LM-00-2023-24/assets/91023374/14c251a8-2bd3-4a56-8a09-0c5cb006345c)
 
 
-[UT01: Introducción a los lenguajes de marcas](https://github.com/profeMelola/LM-00-2023-24)
+[UT01: Introducción a los lenguajes de marcas](https://github.com/profeMelola/LM-00-2023-24/blob/main/README.md)
 
 ## Licencia
 
