@@ -5,7 +5,9 @@
 
 [UT01: Introducción a los lenguajes de marcas](https://github.com/profeMelola/LM-01-2023-24)
 
-[UT02: xml](https://github.com/profeMelola/LM-02-2023-24)
+[UT02: XML](https://github.com/profeMelola/LM-02-2023-24)
+
+[UT03: DTD](https://github.com/profeMelola/LM-03-2023-24)
 
 
 ## Licencia
