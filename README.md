@@ -7,7 +7,9 @@
 
 [UT02: XML](https://github.com/profeMelola/LM-02-2023-24)
 
-[UT03: DTD](https://github.com/profeMelola/LM-03-2023-24)
+[UT02: DTD](https://github.com/profeMelola/LM-03-2023-24)
+
+[UT02: XSD](https://github.com/profeMelola/LM-04-2023-24)
 
 
 ## Licencia
