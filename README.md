@@ -21,6 +21,8 @@ https://download-directory.github.io/
 
 [UT04: XQUERY](https://github.com/profeMelola/LM-06-2023-24/tree/main)
 
+[UT05: HTML](https://github.com/profeMelola/LM-07-2023-24/tree/main)
+
 
 
 
