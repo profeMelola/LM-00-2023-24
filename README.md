@@ -1,6 +1,6 @@
 # Módulo "Lenguajes de Marcas y Sistemas de Gestión de la Información"
 
-Para descargar un directorio de GitHub
+Para descargar un directorio de GitHub directamente 
 https://download-directory.github.io/
 
 
