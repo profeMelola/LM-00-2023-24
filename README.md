@@ -23,6 +23,8 @@ https://download-directory.github.io/
 
 [UT05: HTML](https://github.com/profeMelola/LM-07-2023-24/tree/main)
 
+[UT06: CSS](https://github.com/profeMelola/LM-08-2023-24/tree/main)
+
 
 
 
